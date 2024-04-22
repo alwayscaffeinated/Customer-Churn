@@ -1,6 +1,8 @@
 # Customer-Churn
 
 **Customer Churn Prediction**
+
+
 This project focuses on predicting customer churn using machine learning techniques and conducting comprehensive data analysis to uncover key insights. By analyzing customer behavior and payment preferences, we identified higher churn rates among customers opting for electronic check payments or paperless billing. The developed machine learning model achieved an accuracy of 79.95% and an AUC score of 82.97%, providing valuable insights for strategic decision-making and improving customer retention strategies.
 
 The project includes:
