@@ -8,7 +8,11 @@ This project focuses on predicting customer churn using machine learning techniq
 The project includes:
 
 Exploratory data analysis (EDA) to understand customer behavior and preferences.
+
 Feature engineering to enhance model performance and interpretability.
+
 Development and deployment of a Random Forest classifier for churn prediction.
+
 Utilization of model predictions to inform strategic business decisions and optimize customer retention efforts.
+
 This repository serves as a demonstration of applied data science techniques and their impact on business insights and decision-making processes in the context of customer churn analysis.
